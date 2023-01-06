@@ -1,0 +1,16 @@
+{
+  "name": "Arduino Client Library for ESP8266 and ESP32",
+  "version": "1.0",
+  "keywords": "communication, REST, esp32, esp8266, arduino",
+  "description": "The library supports DHT11 and BME280. The library also supported other Arduino devices using Clients interfaces e.g. WiFiClient, EthernetClient, and GSMClient.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/userdevil/IOT-ASSITANT.git"
+  },
+  "authors": [{
+    "name": "Mavin Sandeep",
+    "email": "mavinsandeep@gmail.com"
+  }],
+  "frameworks": "arduino",
+  "platforms": "espressif32, espressif8266, atmelsam, raspberrypi, atmelavr, atmelmegaavr, ststm32, teensy"
+}
